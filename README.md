@@ -186,3 +186,10 @@ Contribution History:
 <p align="center" style="width:100%;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudarshan50&theme=dark">
 </p>
+
+Socials:
+<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudarshan-iiitd/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sudarshankumar.iitd@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32"></a>&nbsp;&nbsp;&nbsp;
+</p>
